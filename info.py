@@ -106,7 +106,7 @@ VERIFY_SND_SHORTLINK_API = environ.get('VERIFY_SND_SHORTLINK_API', '')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/movies_request_search_group_2024/278')
 
 # Shortlink Info
-SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', True))
+SHORTLINK_MODE = bool(environ.get('SHORTLINK_MODE', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'modijiurl.com')
 SHORTLINK_API = environ.get('SHORTLINK_API', '4bbf350492296fd3215db369bbbf35e28b69eaf4')
 
