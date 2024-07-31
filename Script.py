@@ -78,7 +78,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/SNAP_LEAKS_2024)</code>
+<code>[Button Text](buttonurl:https://t.me/notifycinemaofficial)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -113,7 +113,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/lovelyavimuwal>☢AVI☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/snap_leaks_2024>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/notifycinemaofficial>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -705,11 +705,11 @@ special Thanks To ❤️ Developers -
 
 -Dev 1 [Owner of this bot ]<a href='https://t.me/lovelyavimuwal'>AM</a>
 
--Dev 2 <a href='https://t.me/snap_leaks_2024'>AM</a>
+-Dev 2 <a href='https://t.me/notifycinemaofficial'>AM</a>
 
--Dev 3 <a href='https://t.me/snap_leaks_2024>AM</a>
+-Dev 3 <a href='https://t.me/notifycinemaofficial>AM</a>
 
-- Dev 4 <a href='https://t.me/snap_leaks_2024'>AM</a>
+- Dev 4 <a href='https://t.me/notifycinemaofficial'>AM</a>
 """
 
     RENAME_TXT = """
